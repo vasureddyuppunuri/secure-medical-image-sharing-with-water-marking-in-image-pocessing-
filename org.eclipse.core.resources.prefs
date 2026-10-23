@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//WebContent/AttackerHome.jsp=UTF-8
+encoding//WebContent/CloudDashboard.jsp=UTF-8
+encoding//WebContent/CloudLogin.jsp=UTF-8
+encoding//WebContent/DoctorAppoitmentApprove.jsp=UTF-8
+encoding//WebContent/DoctorViewReport.jsp=UTF-8
+encoding//WebContent/PatientHome.jsp=UTF-8
+encoding//WebContent/PatientReg.jsp=UTF-8
+encoding//WebContent/PatientUploadedReport.jsp=UTF-8
+encoding//WebContent/PlainImageView.jsp=UTF-8
+encoding//WebContent/ViewPrescriptions.jsp=UTF-8
+encoding//WebContent/addimage.jsp=UTF-8
+encoding//WebContent/doctor_success.jsp=UTF-8
+encoding//WebContent/listEncryptedImages.jsp=UTF-8
+encoding//WebContent/prescription_status.jsp=UTF-8
+encoding//WebContent/success.jsp=UTF-8
+encoding/<project>=UTF-8
